@@ -1,0 +1,17 @@
+{
+"companyName": "Dankon",
+"productName": "Dankon CDE",
+"productVersion": "1.1.9",
+"dataUrl": "18_4.data.unityweb",
+"wasmCodeUrl": "18_4.wasm.code.unityweb",
+"wasmFrameworkUrl": "18_4.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "18_4.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.9f1"
+}
